@@ -9,3 +9,5 @@ here is a growing collection of resources and helpful commands to know when work
 - [git init](./commands/Init.md)
 - [git commit](./commands/Commit.md)
 - [git remotes](./Commands/Remotes.md)
+- [git push](./Commands/Push.md)
+- [git pull](./Commands/Pull.md)
